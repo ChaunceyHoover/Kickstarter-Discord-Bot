@@ -1,6 +1,6 @@
 {
   "name": "kickstarter-discord-bot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Discord bot for manually linking lists of Kickstarter users to a specific Discord role",
   "main": "index.js",
   "scripts": {

@@ -1,2 +1,4 @@
 require('./lib/bot-app');
-require('./lib/web-app');
+
+// Come back to this later
+//require('./lib/web-app');
